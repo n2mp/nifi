@@ -24,7 +24,7 @@ Apache NiFi is an easy to use, powerful, and reliable system to process and dist
 - [Getting Help](#getting-help)
 - [Documentation](#documentation)
 - [License](#license)
-- [Export Control] (#export-control)
+- [Export Control](#export-control)
 
 ## Features
 
